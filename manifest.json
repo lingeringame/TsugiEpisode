@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "TsugiEpisode",
+    "version": "1.0",
+  
+    "description": "Track the next episode of your next anime using a simple UI.",
+    "icons": {
+      "48": "icons/beasts-48.png"
+    },
+  
+  
+    "browser_action": {
+      "default_icon": "icons/beasts-32.png",
+      "default_title": "TsugiEpisode",
+      "default_popup": "popup/home.html"
+    },
+  
+    "web_accessible_resources": [
+    ]
+  }
+  
